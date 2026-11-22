@@ -1,0 +1,26 @@
+{
+  "scene_01": {
+    "speech_duration": 29.781814,
+    "scene_duration": 31.281814
+  },
+  "scene_02": {
+    "speech_duration": 51.969433,
+    "scene_duration": 53.469433
+  },
+  "scene_03": {
+    "speech_duration": 54.171882,
+    "scene_duration": 55.671882
+  },
+  "scene_04": {
+    "speech_duration": 81.032562,
+    "scene_duration": 82.532562
+  },
+  "scene_05": {
+    "speech_duration": 75.049478,
+    "scene_duration": 76.549478
+  },
+  "scene_06": {
+    "speech_duration": 30.768299,
+    "scene_duration": 32.268299
+  }
+}
